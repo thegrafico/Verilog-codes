@@ -52,3 +52,7 @@ This module implements:
 
 	-FSM
 
+
+# AUTHOR:
+
+	Raul Pichardo Avalo, Student at Inter-american University of Puerto Rico, Bayamon Campus.
